@@ -1,0 +1,1 @@
+## 4D Component - SVG BarcodesThomas Maul, 4D Germany### Tech Note 08-27 Updatehttp://kb.4d.com/assetid=505744D Version 13 or newer* See Tech Note PDF for usage description and example* History: 2014-04-29 bug fix, bad checksum calculate for some Code128C codes, producing unreadable codes
